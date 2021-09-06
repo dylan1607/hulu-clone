@@ -2,6 +2,8 @@
 
 Live Preview : [https://hulu-clone-chi-ecru.vercel.app/]
 
+<img width="489" alt="Screen Shot 2021-09-06 at 10 54 53 AM" src="https://user-images.githubusercontent.com/67869620/132158578-5feade51-19db-42fa-8fa4-c7f7df4d510e.png">
+
 ## About
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).

@@ -1,0 +1,16 @@
+{
+  "theme_color": "#06202A",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  "name": "Hulu Clone",
+  "short_name": "Hulu Clone",
+  "description": "Rate Film",
+  "icons": [
+      {
+          "src": "/hulu.png",
+          "sizes": "512x512",
+          "type": "image/png"
+      }
+  ]
+}

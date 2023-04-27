@@ -1,4 +1,3 @@
-import Head from "next/head";
 import Header from "../components/Header";
 import Navbar from "../components/Navbar";
 import Results from "../components/Results";
@@ -8,11 +7,6 @@ export default function Home({ results }) {
   // console.log({ results });
   return (
     <div>
-      <Head>
-        <title>Hulu</title>
-        <link rel="icon" href="/favicon.ico" />
-      </Head>
-
       {/* Header Component */}
       <Header />
 

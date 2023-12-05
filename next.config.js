@@ -1,11 +1,12 @@
 const withPWA = require('next-pwa')({
-  dest: "public",
+  dest: 'public',
   register: true,
   skipWaiting: true,
 });
 
 module.exports = withPWA({
   images: {
-    domains: ["press.hulu.com", "image.tmdb.org"],
+    unoptimized: true,
+    domains: ['press.hulu.com', 'image.tmdb.org'],
   },
 });
